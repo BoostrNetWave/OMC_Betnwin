@@ -1,0 +1,10 @@
+betnwin - your-user-name
+sivA898S - your-password
+
+CREATE USER betnwin WITH PASSWORD 'sivA898S';
+
+CREATE DATABASE betnwin_db;
+
+GRANT ALL PRIVILEGES ON DATABASE betnwin TO betnwin;
+
+[IMP - Make User As Super User In Laravel]
